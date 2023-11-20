@@ -1,5 +1,11 @@
 # ExpenseManager
 
+![Alt image](https://s6.uupload.ir/files/screen_g722.png)
+
+
+This is simple project for learn HTTP Client, Data binding with small server on local host with mock data.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
 
 ## Development server
